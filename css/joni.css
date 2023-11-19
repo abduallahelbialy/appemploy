@@ -171,6 +171,13 @@ a {
   .long{
     top: 0px;
   }
+  .vlidh a {
+    background-color: #2386c8;
+    color: white;
+    font-weight: bold;
+    padding: 6px 31px;
+    border-radius: 16px;
+}
   
 }
 .bell::after {
