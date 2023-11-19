@@ -110,6 +110,15 @@ a {
   border-radius: 50%;
   cursor: pointer;
 }
+@media (max-width: 477px) {
+  .bell{
+    top: 0px;
+  }
+  .long{
+    top: 0px;
+  }
+  
+}
 .bell::after {
   content: "";
   position: absolute;
