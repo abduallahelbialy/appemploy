@@ -174,16 +174,7 @@ a {
   
   
 }
-@media (max-width:375px) {
-  .vlidh a {
-    background-color: #2386c8;
-    color: white;
-    font-weight: bold;
-    padding: 6px 31px;
-    border-radius: 16px;
-}
-  
-}
+
 .bell::after {
   content: "";
   position: absolute;
@@ -912,7 +903,7 @@ background-color: hsl(210deg 2% 53% / 30%);
    background-color: #2386c8;
     color: white;
     font-weight: bold;
-    padding: 6px 37px;
+    padding: 6px 31px;
     border-radius: 16px;
 }
 .vlidhh a{
